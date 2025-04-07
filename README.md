@@ -8,7 +8,7 @@ So we found a workaround, and implemented it.
 This will add alot of possibilities in making addons with Script API.  
 
 # @minecraft/server version:
-- idk
+- currently supports 2.0.0-beta
 
 # Authors:
 - IMvampireXD (discord- @finnafinest_)
