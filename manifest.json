@@ -1,0 +1,60 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"finnafinest_",
+			"Cennac"
+		]
+	},
+	"header": {
+		"name": "entityHurt beforeEvent",
+		"description": "made by @finnafinest_ and @Cennac",
+		"min_engine_version": [
+			1,
+			21,
+			70
+		],
+		"uuid": "064b2514-2f1a-4b7b-9254-03a4831eed98",
+		"version": [
+			1,
+			0,
+			2
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "18fec3e6-8b3d-430a-98fa-03fede0edf6f",
+			"version": [
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"type": "script",
+			"language": "javascript",
+			"uuid": "8290e212-c17c-49ad-873e-f394bab1dbc1",
+			"entry": "scripts/main.js",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "e27aaf94-0f79-45ed-97d5-cc972226ec9b",
+			"version": [
+				1,
+				0,
+				2
+			]
+		},
+		{
+			"module_name": "@minecraft/server",
+			"version": "2.0.0-beta"
+		}
+	]
+}
